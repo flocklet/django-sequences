@@ -37,7 +37,7 @@ Installation
 
 Install django-sequences::
 
-    $ pip install django-sequences
+    $ pip install django-sequences-py2
 
 Add it to the list of applications in your project's settings::
 
