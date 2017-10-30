@@ -13,7 +13,7 @@ with codecs.open(os.path.join(root_dir, 'README.rst'), encoding='utf-8') as f:
 
 setuptools.setup(
     name='django-sequences-py2',
-    version='0.1',
+    version='0.3',
     description=description,
     long_description=long_description,
     url='https://github.com/flocklet/django-sequences-py2',
